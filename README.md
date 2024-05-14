@@ -1,9 +1,14 @@
 Aprendizado sobre utilização de repositórios do Spring Data JPA;
+
 Entendimento sobre como mapear classes para o banco de dados com ORM;
+
 Modelagem de relacionamentos entre entidades;
+
 Conhecimento entre as diversas formas consultar o banco em uma aplicação Java;
+
 Utilizaçõa variáveis de ambiente para deixar seu código mais seguro;
-Integração da aplicação aplicação com a API do ChatGPT;
+
+Integração da aplicação aplicação com a API do ChatGPT.
 
 Menu da aplicação:
 1- Cadastrar artistas
