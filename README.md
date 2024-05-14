@@ -10,7 +10,7 @@ Utilizaçõa variáveis de ambiente para deixar seu código mais seguro;
 
 Integração da aplicação aplicação com a API do ChatGPT.
 
-==========================================================================================================
+===================================================================================================
 
 Menu da aplicação:
 
@@ -29,6 +29,6 @@ Menu da aplicação:
 Através do terminal, temos as opções de cadastrar música, cadastrar artista e listar as músicas cadastradas.
 Por exemplo, ao listar, a aplicação mostrará as músicas registradas no banco de dados.
 
-Além disso, há a opção de pesquisar. Utilizando o chat GPT, é ´possível buscar informações sobre um artista.
+Além disso, há a opção de pesquisar. Utilizando o chat GPT, é possível buscar informações sobre um artista.
 A aplicação integrará a API do chat GPT, que fornecerá informações sobre o artista pesquisado.
 Dessa forma, a pessoa usuária pode pesquisar sobre o artista antes de cadastrá-lo no banco de dados.
