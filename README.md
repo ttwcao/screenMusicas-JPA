@@ -10,7 +10,11 @@ Utilizaçõa variáveis de ambiente para deixar seu código mais seguro;
 
 Integração da aplicação aplicação com a API do ChatGPT.
 
+==========================================================================================================
+==========================================================================================================
+
 Menu da aplicação:
+
 1- Cadastrar artistas
 
 2- Cadastrar músicas
